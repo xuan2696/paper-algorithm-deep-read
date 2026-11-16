@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文精读：算法详解"
+  short_description: "结合全文逐图讲清算法模块、输入输出、公式、训练和推理，生成有据可查的精读报告。"
+  default_prompt: "使用 $paper-algorithm-deep-read 精读指定论文，保留五段叙事，结合全文详细解释算法相关图片、子图与关键箭头，讲清模块输入输出、公式对应、训练和推理，并标明未披露的实现细节。"
